@@ -1,0 +1,45 @@
+/* simple style for body */
+body {
+        padding: 10px;
+}
+
+/* divs */
+div {
+        height: 200px;
+        width: 510px;
+        background-color: lightgray;
+        margin-bottom: 100px;   
+     
+}
+
+
+/* h2 */
+h2 {
+        width: 500px;
+        padding-top: 20px;
+        padding-left: 10px;
+        background-color: rgb(198, 54, 54);
+        height: 30px;
+        color: white;
+        font-size: 20px;
+        border: 1px solid black;
+
+}
+
+/* catalog text */
+.catalogOne {
+         padding-left: 20px;
+
+}
+
+/* total val */
+.tot-val {
+        background-color: gray;
+        font-weight: bold;
+        height: 35px;
+        padding-top: 25px;
+        padding-left: 10px;
+        margin-top: 30px;
+        border: 1px solid black;
+
+}
